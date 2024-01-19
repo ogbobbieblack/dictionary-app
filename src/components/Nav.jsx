@@ -3,8 +3,6 @@
 import { FiMoon, FiBook } from "react-icons/fi";
 import { BsToggleOn, BsToggleOff } from "react-icons/bs";
 
-
-
 const Nav = ({darkMode, setDarkMode}) => {
   return (
     <nav className="flex items-center justify-between text-3xl py-12">
